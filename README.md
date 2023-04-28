@@ -9,38 +9,38 @@ Twitter has become a popular platform for users to express their opinions, inclu
 #Attribute Information:
 
 Categorical- 
-Airline Sentiment
-Negative Reason
-Airline
-Airline Sentiment Gold
-Name
-Negative Reason Gold
-Text
-Tweet Coord
-Tweet Created
-Tweet Location
-User Timezone
+Airline Sentiment,
+Negative Reason,
+Airline,
+Airline Sentiment Gold,
+Name,
+Negative Reason Gold,
+Text,
+Tweet Coord,
+Tweet Created,
+Tweet Location,
+User Timezone,
 
 Numeric-
-Tweet ID
-Airline Sentiment Confidence
-Negative Reason Confidence
-Retweet Count
+Tweet ID,
+Airline Sentiment Confidence,
+Negative Reason Confidence,
+Retweet Count,
 
 #Algorithms Applied:
 
-Logistic Regression
-KNN
-SVM
-Naive Bayes- 4 Types
-Decision Tree
-Random Forest
-Bagging
-AdaBoost
-Gradient Boost
-XGBoost
-RNN-LSTM with Pre-Trained Embedding Vectors
-RNN-LSTM without Pre-Trained Embedding Vectors
-Conv1D with Pre-Trained Embedding Vectors
+Logistic Regression,
+KNN,
+SVM,
+Naive Bayes- 4 Types,
+Decision Tree,
+Random Forest,
+Bagging,
+AdaBoost,
+Gradient Boost,
+XGBoost,
+RNN-LSTM with Pre-Trained Embedding Vectors,
+RNN-LSTM without Pre-Trained Embedding Vectors,
+Conv1D with Pre-Trained Embedding Vectors.
 
 
