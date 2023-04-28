@@ -1,6 +1,6 @@
 # Twitter-Airline-Sentiment-Analysis
 
-PPT Link: https://www.canva.com/design/DAFhNYpxQpg/dD3nDXBx-Q5bAuMJ55QZ9A/edit?utm_content=DAFhNYpxQpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PPT Link: https://drive.google.com/file/d/1mFOjRNRJepATNRo-N8xD6YYaTH-6aWlw/view?usp=sharing
 
 #Problem Statement:
 
